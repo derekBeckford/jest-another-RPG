@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekBeckford/jest-another-RPG.git"
+  },
+  "author": "Derek Beckford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derekBeckford/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/derekBeckford/jest-another-RPG#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
